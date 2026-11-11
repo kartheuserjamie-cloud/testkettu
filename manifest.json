@@ -1,0 +1,14 @@
+{
+  "name": "Oneko Mobile",
+  "description": "Pixelkatze für Kettu: läuft herum und lässt sich mit dem Finger ziehen (Overlay abhängig vom Client).",
+  "authors": [
+    {
+      "name": "Community port (nach adryd/Vencord)"
+    }
+  ],
+  "main": "index.js",
+  "hash": "3e1ee22609402b4eb78357f4d64c177cb96e2e6f58efe6c35007c1f148fae906",
+  "vendetta": {
+    "icon": "AnimalPawIcon"
+  }
+}
